@@ -1,0 +1,16 @@
+
+
+html, body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2vmin;
+    color:white;
+    background:black;
+}
+
+a {
+    color:#FF4040;
+}
+
+a:visited {
+    color:#C02020;
+}
